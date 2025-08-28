@@ -5,6 +5,10 @@ ive made a lot of diffrenet pygames and eazy tutorials on how ot make and play t
 her er en oversikt over alle tutorials:
 - [pygames !!!](#pygames-)
   - [guessing game !](#guessing-game-)
+  - [hangman !](#hangman-)  
+  - [](#)  
+  - [](#)
+
 
 ## guessing game !
 the purpose of this game is to guess waht number the randomiser has chosen. in the code i also set a limit of guesses, so you cant forever, and it makes the game a bit easier !! so lets go thru how i made it:
@@ -53,3 +57,6 @@ while guesses < chances: # for a loop to happen, we need something to start it
 ```
 
 now you´ve made a simple and easy guessing game, well done !! 
+
+
+# hangman !
